@@ -1,15 +1,14 @@
 // FCAI – Structured Programming – 2024 - Assignment 2
 
-// Program Name: CS112_A2_T3_S3_20230151_S3_20230452_S4_20231166.cpp
 
 // Program Description: The fraction calculator allows the user to input two fractions,the calculator takes these inputs
 //                      and carries out basic mathematical operations like addition, subtraction, multiplication and division.
 
 // Last Modification Date: 17/3/2024
 
-// Author1 and ID and Group: Zyad Ashraf El-Sayed   20230151   Group A
-// Author2 and ID and Group: Nourhan Adel Mohamed   20230452   Group A
-// Author3 and ID and Group: Mariam Medhat Shawky   20231166   Group A
+// Author1 and ID and Group: Zyad Ashraf El-Sayed    Group A
+// Author2 and ID and Group: Nourhan Adel Mohamed    Group A
+// Author3 and ID and Group: Mariam Medhat Shawky    Group A
 
 // Emails:  Email Author1: ziadashraf950@gmail.com
 //          Email Author2: nourhan.adel.eg@gmail.com
